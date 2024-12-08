@@ -1,0 +1,9 @@
+.mgstats
+app.manifest
+goals.txt
+
+.vscode/
+.config/
+Content/
+bin/
+obj/
